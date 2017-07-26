@@ -1,4 +1,4 @@
-Dataset and script to reproduce data analysis for "Evaluation of AMSTAR versus ROBIS tool for quality assessment of systematic reviews of treatments published on psoriasis project (PROSPERO 2016: CRD42016053181)". Results have been included as text, tables or figures on the original article:
+Dataset and script to reproduce data analysis for "Quality assessment of pharmacological and non-pharmacological interventions for the management of psoriasis: a systematic review of reviews and network meta-analysis" project (PROSPERO 2016:CRD42016041611)". Results have been included as text, tables or figures on the original article:
 
 "Methodological quality, research disclosures, editorial decisions, and social dissemination efforts influence differently the bibliometric impact of systematic reviews and meta-analysis about psoriasis".
 
